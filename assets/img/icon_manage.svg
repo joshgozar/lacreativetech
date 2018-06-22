@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="20,8.252 63,8.252 63,46.252 22,46.252 
+							"/>
+			<line fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" x1="22" y1="42.252" x2="60" y2="42.252"/>
+			<g>
+				<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="27,39.252 27,34.252 23,34.252 
+					23,39.252 				"/>
+				<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="43,39.252 43,27.252 39,27.252 
+					39,39.252 				"/>
+				<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="51,39.252 51,21.252 47,21.252 
+					47,39.252 				"/>
+				<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="59,39.252 59,16.252 55,16.252 
+					55,39.252 				"/>
+				<polyline fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" points="35,39.252 35,31.252 31,31.252 
+					31,39.252 				"/>
+			</g>
+			<line fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" x1="12" y1="62.252" x2="12" y2="41.252"/>
+			<circle fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" cx="12" cy="8.252" r="5"/>
+			<path fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" d="M5,62.252v-24H1v-14c0-3.866,3.133-7,7-7h27v6H19
+				v39"/>
+			<line fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" x1="12" y1="20.252" x2="12" y2="22.252"/>
+			<line fill="none" stroke="#622FBC" stroke-width="2" stroke-miterlimit="10" x1="12" y1="24.252" x2="12" y2="26.252"/>
+		</g>
+	</g>
+</g>
+</svg>
